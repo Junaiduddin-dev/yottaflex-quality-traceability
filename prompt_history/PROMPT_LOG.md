@@ -1,122 +1,81 @@
 # YottaFlex – AI Prompt History
 
+## 1. AI Tool
 
+**Tool:** ChatGPT
 
-## AI Tool
+## 2. Purpose
 
-ChatGPT
+This document records the main areas in which AI assistance was used during the development of the YottaFlex Manufacturing Quality & Defect Traceability System.
 
+**Record type:** Reconstructed summaries of development requests. These are not verbatim copies of the original prompts.
 
+## 3. Development Prompt History
 
-## Record Type
+### 3.1 Project Understanding and Planning
 
-Reconstructed summaries of development requests. These are not verbatim copies of the original prompts.
+**Request summary:** Review the YottaFlex manufacturing quality and defect traceability assignment, understand its requirements, and create a suitable implementation plan.
 
+### 3.2 Database Architecture
 
+**Request summary:** Design a relational database for manufacturing traceability, including products, suppliers, BOMs, material lots, production orders, machines, inspections, defects, corrective actions, and audit events.
 
-## 1. Project Planning
+### 3.3 SQLAlchemy Models
 
-**Request summary:** Understand the YottaFlex manufacturing quality and defect traceability assignment and prepare an implementation plan.
+**Request summary:** Implement database tables, relationships, primary keys, foreign keys, and relevant database constraints using Python and SQLAlchemy.
 
+### 3.4 Database Initialization
 
+**Request summary:** Create database initialization and verification scripts and troubleshoot database relationship and initialization issues.
 
-## 2. Database Design
-
-**Request summary:** Design a relational database for products, suppliers, BOMs, material lots, production orders, machines, inspections, defects, corrective actions, and audit events.
-
-
-
-## 3. SQLAlchemy Implementation
-
-**Request summary:** Implement database models, relationships, primary keys, foreign keys, and database constraints using Python and SQLAlchemy.
-
-
-
-## 4. Database Initialization
-
-**Request summary:** Create database initialization and verification scripts and troubleshoot database issues.
-
-
-
-## 5. Synthetic Master Data
+### 3.5 Synthetic Master Data Generation
 
 **Request summary:** Generate synthetic products, suppliers, machines, BOMs, and BOM line records using a fixed random seed.
 
+### 3.6 Production Data Generation
 
+**Request summary:** Generate material lots, production orders, material consumption records, process steps, and machine execution records with traceability relationships.
 
-## 6. Production Data
+### 3.7 Inspection and Defect Generation
 
-**Request summary:** Generate material lots, production orders, material consumption, process steps, and machine execution records.
+**Request summary:** Generate inspection plans, inspection results, and defect records connected to production orders and manufacturing processes.
 
+### 3.8 CAPA Lifecycle
 
+**Request summary:** Generate corrective and preventive action records and implement validation for CAPA lifecycle states, verification, and closure dates.
 
-## 7. Inspection and Defect Data
+### 3.9 Anomaly Scenarios
 
-**Request summary:** Generate inspection plans, inspection results, and defect records linked to production orders.
+**Request summary:** Design and generate five anomaly scenarios covering nonexistent material lots, missing BOM material consumption, premature CAPA closure, excessive defect quantities, and broken traceability chains.
 
+### 3.10 Traceability Validation
 
+**Request summary:** Implement validation to trace defects through inspection results, production orders, process execution, machines, material lots, and suppliers.
 
-## 8. CAPA Lifecycle
+### 3.11 Business Rule Validation
 
-**Request summary:** Generate corrective and preventive action records and validate lifecycle states, verification, and closure dates.
+**Request summary:** Develop validation scripts for inspection quantities, defect quantities, machine execution, material lot traceability, and material quantity reconciliation.
 
+### 3.12 Anomaly Testing
 
+**Request summary:** Implement tests to verify anomaly detection and database constraint enforcement.
 
-## 9. Anomaly Scenarios
+### 3.13 Dataset Export
 
-**Request summary:** Design five anomaly scenarios covering nonexistent material lots, missing BOM material consumption, premature CAPA closure, excessive defect quantities, and broken traceability chains.
+**Request summary:** Export database records into CSV, JSON, and SQL formats and verify that exported record counts match the database.
 
+### 3.14 Reproducibility
 
+**Request summary:** Implement SHA-256 checksum generation and comparison to verify consistency of repeated dataset exports.
 
-## 10. Traceability Validation
+### 3.15 Documentation
 
-**Request summary:** Implement defect traceability across inspections, production orders, machines, material lots, and suppliers.
+**Request summary:** Prepare the README, database data dictionary, entity relationship documentation, installation instructions, validation results, and project limitations.
 
+### 3.16 Debugging and Final Review
 
+**Request summary:** Troubleshoot Python, database, generator, validation, export, and Git issues encountered during development and review project readiness.
 
-## 11. Business Rule Validation
+## 4. Human Review and Responsibility
 
-**Request summary:** Develop validation scripts for inspection quantities, defect quantities, machine execution, material traceability, and material reconciliation.
-
-
-
-## 12. Anomaly Testing
-
-**Request summary:** Test anomaly detection and database constraint enforcement.
-
-
-
-## 13. Data Export
-
-**Request summary:** Export database records into CSV, JSON, and SQL formats and verify exported record counts.
-
-
-
-## 14. Reproducibility
-
-**Request summary:** Implement SHA-256 checksum generation and comparison for repeated exports.
-
-
-
-## 15. Documentation
-
-**Request summary:** Prepare README, database documentation, installation instructions, validation results, and project limitations.
-
-
-
-## 16. Debugging and GitHub
-
-**Request summary:** Troubleshoot Python, database, generator, validation, export, and Git issues and publish the project to GitHub.
-
-
-
-## Human Review and Responsibility
-
-AI suggestions and generated code were reviewed and tested during development. The project author is responsible for understanding the implementation, validating results, reviewing dependencies, and explaining technical decisions and limitations.
-
-
-
-## Accuracy Note
-
-This document contains reconstructed summaries of development requests. It is not an exact transcript of the original conversation. Verbatim prompts should only be included when the original wording is available.
-
+AI-generated suggestions and code were reviewed and tested during development. The project author is responsible for understanding the implementation
