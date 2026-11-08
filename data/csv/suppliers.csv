@@ -1,0 +1,51 @@
+﻿supplier_id,supplier_name,supplier_location,supplier_category,quality_rating,lifecycle_status,created_at
+SUP-000001,Patterson-Molina,North Jason,Mechanical Parts,83.09,ACTIVE,2026-11-08T07:14:01
+SUP-000002,Sweeney-Adams,New Kelseymouth,Mechanical Parts,69.41,ACTIVE,2026-11-08T07:14:01
+SUP-000003,Collins LLC,North Jonathan,Packaging,92.6,ACTIVE,2026-11-08T07:14:01
+SUP-000004,White Inc,Anthonyshire,Mechanical Parts,81.73,ACTIVE,2026-11-08T07:14:01
+SUP-000005,Acosta-Irwin,Dickersonside,Packaging,78.82,ACTIVE,2026-11-08T07:14:01
+SUP-000006,Woods and Sons,Latoyaland,Electronic Components,85.88,ACTIVE,2026-11-08T07:14:01
+SUP-000007,Green and Sons,West Jonathan,Raw Materials,84.18,ACTIVE,2026-11-08T07:14:01
+SUP-000008,Gentry PLC,Williamtown,Raw Materials,78.64,ACTIVE,2026-11-08T07:14:01
+SUP-000009,Vincent Group,Port Richardburgh,Mechanical Parts,91.83,ACTIVE,2026-11-08T07:14:01
+SUP-000010,Gay and Sons,East Henryview,Mechanical Parts,82.75,ACTIVE,2026-11-08T07:14:01
+SUP-000011,Martinez-Melendez,Port Jesse,Electronic Components,97.81,ACTIVE,2026-11-08T07:14:01
+SUP-000012,"Tate, Andersen and Harris",East Jennifer,Electronic Components,67.66,ACTIVE,2026-11-08T07:14:01
+SUP-000013,Gaines Ltd,Danielland,Mechanical Parts,66.38,ACTIVE,2026-11-08T07:14:01
+SUP-000014,Harris PLC,Thomasmouth,Raw Materials,84.47,ACTIVE,2026-11-08T07:14:01
+SUP-000015,Boyd Inc,Bowmantown,Packaging,70.68,ACTIVE,2026-11-08T07:14:01
+SUP-000016,Pearson-Ortiz,South Jennifer,Packaging,73.8,ACTIVE,2026-11-08T07:14:01
+SUP-000017,Watson-Serrano,Janicestad,Raw Materials,83.18,ACTIVE,2026-11-08T07:14:01
+SUP-000018,"Hernandez, Powell and Allen",Port Shawn,Packaging,98.86,ACTIVE,2026-11-08T07:14:01
+SUP-000019,"Duncan, Hebert and Marshall",Seanshire,Electronic Components,66.92,ACTIVE,2026-11-08T07:14:01
+SUP-000020,Steele-Best,Goldenshire,Packaging,73.45,ACTIVE,2026-11-08T07:14:01
+SUP-000021,Jones LLC,Lewiston,Raw Materials,74.97,ACTIVE,2026-11-08T07:14:01
+SUP-000022,Williams-Barry,Andersonland,Packaging,87.99,ACTIVE,2026-11-08T07:14:01
+SUP-000023,Garcia-Oconnor,Port Allisonview,Raw Materials,89.13,ACTIVE,2026-11-08T07:14:01
+SUP-000024,"Lambert, Brown and Mendoza",Amyview,Raw Materials,95.84,ACTIVE,2026-11-08T07:14:01
+SUP-000025,Townsend Ltd,Edwardsfurt,Mechanical Parts,84.75,ACTIVE,2026-11-08T07:14:01
+SUP-000026,Ellis-Clark,South Helenshire,Packaging,80.79,ACTIVE,2026-11-08T07:14:01
+SUP-000027,Torres-Brock,Timothyhaven,Packaging,78.58,ACTIVE,2026-11-08T07:14:01
+SUP-000028,Armstrong-Diaz,Lake Jessica,Raw Materials,66.1,ACTIVE,2026-11-08T07:14:01
+SUP-000029,Smith Group,West Erinhaven,Electronic Components,85.59,ACTIVE,2026-11-08T07:14:01
+SUP-000030,Carlson Inc,South Brandonville,Mechanical Parts,77.36,ACTIVE,2026-11-08T07:14:01
+SUP-000031,"Friedman, Armstrong and Buckley",Port Steven,Packaging,89.1,ACTIVE,2026-11-08T07:14:01
+SUP-000032,"Day, Jackson and Higgins",Mercadoburgh,Raw Materials,76.84,ACTIVE,2026-11-08T07:14:01
+SUP-000033,Wright and Sons,Avilashire,Raw Materials,73.78,ACTIVE,2026-11-08T07:14:01
+SUP-000034,Lewis LLC,Port Anneburgh,Electronic Components,84.96,ACTIVE,2026-11-08T07:14:01
+SUP-000035,Green-Ramirez,West Virginiaburgh,Packaging,69.22,ACTIVE,2026-11-08T07:14:01
+SUP-000036,Kidd Ltd,Charlesland,Mechanical Parts,91.38,ACTIVE,2026-11-08T07:14:01
+SUP-000037,Irwin LLC,South Christopherland,Electronic Components,75.2,ACTIVE,2026-11-08T07:14:01
+SUP-000038,Stone Inc,Lake Danielside,Packaging,69.2,ACTIVE,2026-11-08T07:14:01
+SUP-000039,Rodriguez and Sons,North Jocelyntown,Packaging,84.48,ACTIVE,2026-11-08T07:14:01
+SUP-000040,Edwards-Mcdaniel,Lake Amanda,Electronic Components,80.21,ACTIVE,2026-11-08T07:14:01
+SUP-000041,Jacobs-Brown,Hutchinsonland,Mechanical Parts,74.42,ACTIVE,2026-11-08T07:14:01
+SUP-000042,"Zamora, Francis and Cordova",South Kyle,Packaging,69.02,ACTIVE,2026-11-08T07:14:01
+SUP-000043,"Marquez, Solomon and Horne",Bernardfort,Raw Materials,70.07,ACTIVE,2026-11-08T07:14:01
+SUP-000044,Castaneda-Bryant,Lake Elizabethhaven,Electronic Components,77.11,ACTIVE,2026-11-08T07:14:01
+SUP-000045,Taylor-Anderson,Schultzfort,Packaging,68.6,ACTIVE,2026-11-08T07:14:01
+SUP-000046,"Hardy, Santos and Washington",South Allisonhaven,Packaging,91.15,ACTIVE,2026-11-08T07:14:01
+SUP-000047,Anderson-West,Singletonville,Raw Materials,84.53,ACTIVE,2026-11-08T07:14:01
+SUP-000048,Salas Ltd,New Ericville,Mechanical Parts,92.52,ACTIVE,2026-11-08T07:14:01
+SUP-000049,Baker and Sons,Annland,Electronic Components,77.84,ACTIVE,2026-11-08T07:14:01
+SUP-000050,"Boyd, Brooks and Anthony",Sandrachester,Packaging,66.42,ACTIVE,2026-11-08T07:14:01

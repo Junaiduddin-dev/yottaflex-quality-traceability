@@ -1,0 +1,1802 @@
+[
+    {
+        "bom_id": "BOM-000001-V1",
+        "product_id": "SKU-000001",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000002-V1",
+        "product_id": "SKU-000002",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000003-V1",
+        "product_id": "SKU-000003",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000004-V1",
+        "product_id": "SKU-000004",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000005-V1",
+        "product_id": "SKU-000005",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000006-V1",
+        "product_id": "SKU-000006",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000007-V1",
+        "product_id": "SKU-000007",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000008-V1",
+        "product_id": "SKU-000008",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000009-V1",
+        "product_id": "SKU-000009",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000010-V1",
+        "product_id": "SKU-000010",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000011-V1",
+        "product_id": "SKU-000011",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000012-V1",
+        "product_id": "SKU-000012",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000013-V1",
+        "product_id": "SKU-000013",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000014-V1",
+        "product_id": "SKU-000014",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000015-V1",
+        "product_id": "SKU-000015",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000016-V1",
+        "product_id": "SKU-000016",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000017-V1",
+        "product_id": "SKU-000017",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000018-V1",
+        "product_id": "SKU-000018",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000019-V1",
+        "product_id": "SKU-000019",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000020-V1",
+        "product_id": "SKU-000020",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000021-V1",
+        "product_id": "SKU-000021",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000022-V1",
+        "product_id": "SKU-000022",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000023-V1",
+        "product_id": "SKU-000023",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000024-V1",
+        "product_id": "SKU-000024",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000025-V1",
+        "product_id": "SKU-000025",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000026-V1",
+        "product_id": "SKU-000026",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000027-V1",
+        "product_id": "SKU-000027",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000028-V1",
+        "product_id": "SKU-000028",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000029-V1",
+        "product_id": "SKU-000029",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000030-V1",
+        "product_id": "SKU-000030",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000031-V1",
+        "product_id": "SKU-000031",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000032-V1",
+        "product_id": "SKU-000032",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000033-V1",
+        "product_id": "SKU-000033",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000034-V1",
+        "product_id": "SKU-000034",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000035-V1",
+        "product_id": "SKU-000035",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000036-V1",
+        "product_id": "SKU-000036",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000037-V1",
+        "product_id": "SKU-000037",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000038-V1",
+        "product_id": "SKU-000038",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000039-V1",
+        "product_id": "SKU-000039",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000040-V1",
+        "product_id": "SKU-000040",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000041-V1",
+        "product_id": "SKU-000041",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000042-V1",
+        "product_id": "SKU-000042",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000043-V1",
+        "product_id": "SKU-000043",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000044-V1",
+        "product_id": "SKU-000044",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000045-V1",
+        "product_id": "SKU-000045",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000046-V1",
+        "product_id": "SKU-000046",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000047-V1",
+        "product_id": "SKU-000047",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000048-V1",
+        "product_id": "SKU-000048",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000049-V1",
+        "product_id": "SKU-000049",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000050-V1",
+        "product_id": "SKU-000050",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000051-V1",
+        "product_id": "SKU-000051",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000052-V1",
+        "product_id": "SKU-000052",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000053-V1",
+        "product_id": "SKU-000053",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000054-V1",
+        "product_id": "SKU-000054",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000055-V1",
+        "product_id": "SKU-000055",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000056-V1",
+        "product_id": "SKU-000056",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000057-V1",
+        "product_id": "SKU-000057",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000058-V1",
+        "product_id": "SKU-000058",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000059-V1",
+        "product_id": "SKU-000059",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000060-V1",
+        "product_id": "SKU-000060",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000061-V1",
+        "product_id": "SKU-000061",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000062-V1",
+        "product_id": "SKU-000062",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000063-V1",
+        "product_id": "SKU-000063",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000064-V1",
+        "product_id": "SKU-000064",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000065-V1",
+        "product_id": "SKU-000065",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000066-V1",
+        "product_id": "SKU-000066",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000067-V1",
+        "product_id": "SKU-000067",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000068-V1",
+        "product_id": "SKU-000068",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000069-V1",
+        "product_id": "SKU-000069",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000070-V1",
+        "product_id": "SKU-000070",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000071-V1",
+        "product_id": "SKU-000071",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000072-V1",
+        "product_id": "SKU-000072",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000073-V1",
+        "product_id": "SKU-000073",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000074-V1",
+        "product_id": "SKU-000074",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000075-V1",
+        "product_id": "SKU-000075",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000076-V1",
+        "product_id": "SKU-000076",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000077-V1",
+        "product_id": "SKU-000077",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000078-V1",
+        "product_id": "SKU-000078",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000079-V1",
+        "product_id": "SKU-000079",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000080-V1",
+        "product_id": "SKU-000080",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000081-V1",
+        "product_id": "SKU-000081",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000082-V1",
+        "product_id": "SKU-000082",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000083-V1",
+        "product_id": "SKU-000083",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000084-V1",
+        "product_id": "SKU-000084",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000085-V1",
+        "product_id": "SKU-000085",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000086-V1",
+        "product_id": "SKU-000086",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000087-V1",
+        "product_id": "SKU-000087",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000088-V1",
+        "product_id": "SKU-000088",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000089-V1",
+        "product_id": "SKU-000089",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000090-V1",
+        "product_id": "SKU-000090",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000091-V1",
+        "product_id": "SKU-000091",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000092-V1",
+        "product_id": "SKU-000092",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000093-V1",
+        "product_id": "SKU-000093",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000094-V1",
+        "product_id": "SKU-000094",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000095-V1",
+        "product_id": "SKU-000095",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000096-V1",
+        "product_id": "SKU-000096",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000097-V1",
+        "product_id": "SKU-000097",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000098-V1",
+        "product_id": "SKU-000098",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000099-V1",
+        "product_id": "SKU-000099",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000100-V1",
+        "product_id": "SKU-000100",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000101-V1",
+        "product_id": "SKU-000101",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000102-V1",
+        "product_id": "SKU-000102",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000103-V1",
+        "product_id": "SKU-000103",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000104-V1",
+        "product_id": "SKU-000104",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000105-V1",
+        "product_id": "SKU-000105",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000106-V1",
+        "product_id": "SKU-000106",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000107-V1",
+        "product_id": "SKU-000107",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000108-V1",
+        "product_id": "SKU-000108",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000109-V1",
+        "product_id": "SKU-000109",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000110-V1",
+        "product_id": "SKU-000110",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000111-V1",
+        "product_id": "SKU-000111",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000112-V1",
+        "product_id": "SKU-000112",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000113-V1",
+        "product_id": "SKU-000113",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000114-V1",
+        "product_id": "SKU-000114",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000115-V1",
+        "product_id": "SKU-000115",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000116-V1",
+        "product_id": "SKU-000116",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000117-V1",
+        "product_id": "SKU-000117",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000118-V1",
+        "product_id": "SKU-000118",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000119-V1",
+        "product_id": "SKU-000119",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000120-V1",
+        "product_id": "SKU-000120",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000121-V1",
+        "product_id": "SKU-000121",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000122-V1",
+        "product_id": "SKU-000122",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000123-V1",
+        "product_id": "SKU-000123",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000124-V1",
+        "product_id": "SKU-000124",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000125-V1",
+        "product_id": "SKU-000125",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000126-V1",
+        "product_id": "SKU-000126",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000127-V1",
+        "product_id": "SKU-000127",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000128-V1",
+        "product_id": "SKU-000128",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000129-V1",
+        "product_id": "SKU-000129",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000130-V1",
+        "product_id": "SKU-000130",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000131-V1",
+        "product_id": "SKU-000131",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000132-V1",
+        "product_id": "SKU-000132",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000133-V1",
+        "product_id": "SKU-000133",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000134-V1",
+        "product_id": "SKU-000134",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000135-V1",
+        "product_id": "SKU-000135",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000136-V1",
+        "product_id": "SKU-000136",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000137-V1",
+        "product_id": "SKU-000137",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000138-V1",
+        "product_id": "SKU-000138",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000139-V1",
+        "product_id": "SKU-000139",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000140-V1",
+        "product_id": "SKU-000140",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000141-V1",
+        "product_id": "SKU-000141",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000142-V1",
+        "product_id": "SKU-000142",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000143-V1",
+        "product_id": "SKU-000143",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000144-V1",
+        "product_id": "SKU-000144",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000145-V1",
+        "product_id": "SKU-000145",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000146-V1",
+        "product_id": "SKU-000146",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000147-V1",
+        "product_id": "SKU-000147",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000148-V1",
+        "product_id": "SKU-000148",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000149-V1",
+        "product_id": "SKU-000149",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000150-V1",
+        "product_id": "SKU-000150",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000151-V1",
+        "product_id": "SKU-000151",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000152-V1",
+        "product_id": "SKU-000152",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000153-V1",
+        "product_id": "SKU-000153",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000154-V1",
+        "product_id": "SKU-000154",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000155-V1",
+        "product_id": "SKU-000155",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000156-V1",
+        "product_id": "SKU-000156",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000157-V1",
+        "product_id": "SKU-000157",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000158-V1",
+        "product_id": "SKU-000158",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000159-V1",
+        "product_id": "SKU-000159",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000160-V1",
+        "product_id": "SKU-000160",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000161-V1",
+        "product_id": "SKU-000161",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000162-V1",
+        "product_id": "SKU-000162",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000163-V1",
+        "product_id": "SKU-000163",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000164-V1",
+        "product_id": "SKU-000164",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000165-V1",
+        "product_id": "SKU-000165",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000166-V1",
+        "product_id": "SKU-000166",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000167-V1",
+        "product_id": "SKU-000167",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000168-V1",
+        "product_id": "SKU-000168",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000169-V1",
+        "product_id": "SKU-000169",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000170-V1",
+        "product_id": "SKU-000170",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000171-V1",
+        "product_id": "SKU-000171",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000172-V1",
+        "product_id": "SKU-000172",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000173-V1",
+        "product_id": "SKU-000173",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000174-V1",
+        "product_id": "SKU-000174",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000175-V1",
+        "product_id": "SKU-000175",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000176-V1",
+        "product_id": "SKU-000176",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000177-V1",
+        "product_id": "SKU-000177",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000178-V1",
+        "product_id": "SKU-000178",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000179-V1",
+        "product_id": "SKU-000179",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000180-V1",
+        "product_id": "SKU-000180",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000181-V1",
+        "product_id": "SKU-000181",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000182-V1",
+        "product_id": "SKU-000182",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000183-V1",
+        "product_id": "SKU-000183",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000184-V1",
+        "product_id": "SKU-000184",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000185-V1",
+        "product_id": "SKU-000185",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000186-V1",
+        "product_id": "SKU-000186",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000187-V1",
+        "product_id": "SKU-000187",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000188-V1",
+        "product_id": "SKU-000188",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000189-V1",
+        "product_id": "SKU-000189",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000190-V1",
+        "product_id": "SKU-000190",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000191-V1",
+        "product_id": "SKU-000191",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000192-V1",
+        "product_id": "SKU-000192",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000193-V1",
+        "product_id": "SKU-000193",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000194-V1",
+        "product_id": "SKU-000194",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000195-V1",
+        "product_id": "SKU-000195",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000196-V1",
+        "product_id": "SKU-000196",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000197-V1",
+        "product_id": "SKU-000197",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000198-V1",
+        "product_id": "SKU-000198",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000199-V1",
+        "product_id": "SKU-000199",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "bom_id": "BOM-000200-V1",
+        "product_id": "SKU-000200",
+        "version": 1,
+        "effective_from": "2025-01-01",
+        "effective_to": null,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    }
+]

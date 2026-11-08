@@ -1,0 +1,452 @@
+[
+    {
+        "supplier_id": "SUP-000001",
+        "supplier_name": "Patterson-Molina",
+        "supplier_location": "North Jason",
+        "supplier_category": "Mechanical Parts",
+        "quality_rating": 83.09,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000002",
+        "supplier_name": "Sweeney-Adams",
+        "supplier_location": "New Kelseymouth",
+        "supplier_category": "Mechanical Parts",
+        "quality_rating": 69.41,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000003",
+        "supplier_name": "Collins LLC",
+        "supplier_location": "North Jonathan",
+        "supplier_category": "Packaging",
+        "quality_rating": 92.6,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000004",
+        "supplier_name": "White Inc",
+        "supplier_location": "Anthonyshire",
+        "supplier_category": "Mechanical Parts",
+        "quality_rating": 81.73,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000005",
+        "supplier_name": "Acosta-Irwin",
+        "supplier_location": "Dickersonside",
+        "supplier_category": "Packaging",
+        "quality_rating": 78.82,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000006",
+        "supplier_name": "Woods and Sons",
+        "supplier_location": "Latoyaland",
+        "supplier_category": "Electronic Components",
+        "quality_rating": 85.88,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000007",
+        "supplier_name": "Green and Sons",
+        "supplier_location": "West Jonathan",
+        "supplier_category": "Raw Materials",
+        "quality_rating": 84.18,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000008",
+        "supplier_name": "Gentry PLC",
+        "supplier_location": "Williamtown",
+        "supplier_category": "Raw Materials",
+        "quality_rating": 78.64,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000009",
+        "supplier_name": "Vincent Group",
+        "supplier_location": "Port Richardburgh",
+        "supplier_category": "Mechanical Parts",
+        "quality_rating": 91.83,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000010",
+        "supplier_name": "Gay and Sons",
+        "supplier_location": "East Henryview",
+        "supplier_category": "Mechanical Parts",
+        "quality_rating": 82.75,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000011",
+        "supplier_name": "Martinez-Melendez",
+        "supplier_location": "Port Jesse",
+        "supplier_category": "Electronic Components",
+        "quality_rating": 97.81,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000012",
+        "supplier_name": "Tate, Andersen and Harris",
+        "supplier_location": "East Jennifer",
+        "supplier_category": "Electronic Components",
+        "quality_rating": 67.66,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000013",
+        "supplier_name": "Gaines Ltd",
+        "supplier_location": "Danielland",
+        "supplier_category": "Mechanical Parts",
+        "quality_rating": 66.38,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000014",
+        "supplier_name": "Harris PLC",
+        "supplier_location": "Thomasmouth",
+        "supplier_category": "Raw Materials",
+        "quality_rating": 84.47,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000015",
+        "supplier_name": "Boyd Inc",
+        "supplier_location": "Bowmantown",
+        "supplier_category": "Packaging",
+        "quality_rating": 70.68,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000016",
+        "supplier_name": "Pearson-Ortiz",
+        "supplier_location": "South Jennifer",
+        "supplier_category": "Packaging",
+        "quality_rating": 73.8,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000017",
+        "supplier_name": "Watson-Serrano",
+        "supplier_location": "Janicestad",
+        "supplier_category": "Raw Materials",
+        "quality_rating": 83.18,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000018",
+        "supplier_name": "Hernandez, Powell and Allen",
+        "supplier_location": "Port Shawn",
+        "supplier_category": "Packaging",
+        "quality_rating": 98.86,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000019",
+        "supplier_name": "Duncan, Hebert and Marshall",
+        "supplier_location": "Seanshire",
+        "supplier_category": "Electronic Components",
+        "quality_rating": 66.92,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000020",
+        "supplier_name": "Steele-Best",
+        "supplier_location": "Goldenshire",
+        "supplier_category": "Packaging",
+        "quality_rating": 73.45,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000021",
+        "supplier_name": "Jones LLC",
+        "supplier_location": "Lewiston",
+        "supplier_category": "Raw Materials",
+        "quality_rating": 74.97,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000022",
+        "supplier_name": "Williams-Barry",
+        "supplier_location": "Andersonland",
+        "supplier_category": "Packaging",
+        "quality_rating": 87.99,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000023",
+        "supplier_name": "Garcia-Oconnor",
+        "supplier_location": "Port Allisonview",
+        "supplier_category": "Raw Materials",
+        "quality_rating": 89.13,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000024",
+        "supplier_name": "Lambert, Brown and Mendoza",
+        "supplier_location": "Amyview",
+        "supplier_category": "Raw Materials",
+        "quality_rating": 95.84,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000025",
+        "supplier_name": "Townsend Ltd",
+        "supplier_location": "Edwardsfurt",
+        "supplier_category": "Mechanical Parts",
+        "quality_rating": 84.75,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000026",
+        "supplier_name": "Ellis-Clark",
+        "supplier_location": "South Helenshire",
+        "supplier_category": "Packaging",
+        "quality_rating": 80.79,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000027",
+        "supplier_name": "Torres-Brock",
+        "supplier_location": "Timothyhaven",
+        "supplier_category": "Packaging",
+        "quality_rating": 78.58,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000028",
+        "supplier_name": "Armstrong-Diaz",
+        "supplier_location": "Lake Jessica",
+        "supplier_category": "Raw Materials",
+        "quality_rating": 66.1,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000029",
+        "supplier_name": "Smith Group",
+        "supplier_location": "West Erinhaven",
+        "supplier_category": "Electronic Components",
+        "quality_rating": 85.59,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000030",
+        "supplier_name": "Carlson Inc",
+        "supplier_location": "South Brandonville",
+        "supplier_category": "Mechanical Parts",
+        "quality_rating": 77.36,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000031",
+        "supplier_name": "Friedman, Armstrong and Buckley",
+        "supplier_location": "Port Steven",
+        "supplier_category": "Packaging",
+        "quality_rating": 89.1,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000032",
+        "supplier_name": "Day, Jackson and Higgins",
+        "supplier_location": "Mercadoburgh",
+        "supplier_category": "Raw Materials",
+        "quality_rating": 76.84,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000033",
+        "supplier_name": "Wright and Sons",
+        "supplier_location": "Avilashire",
+        "supplier_category": "Raw Materials",
+        "quality_rating": 73.78,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000034",
+        "supplier_name": "Lewis LLC",
+        "supplier_location": "Port Anneburgh",
+        "supplier_category": "Electronic Components",
+        "quality_rating": 84.96,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000035",
+        "supplier_name": "Green-Ramirez",
+        "supplier_location": "West Virginiaburgh",
+        "supplier_category": "Packaging",
+        "quality_rating": 69.22,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000036",
+        "supplier_name": "Kidd Ltd",
+        "supplier_location": "Charlesland",
+        "supplier_category": "Mechanical Parts",
+        "quality_rating": 91.38,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000037",
+        "supplier_name": "Irwin LLC",
+        "supplier_location": "South Christopherland",
+        "supplier_category": "Electronic Components",
+        "quality_rating": 75.2,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000038",
+        "supplier_name": "Stone Inc",
+        "supplier_location": "Lake Danielside",
+        "supplier_category": "Packaging",
+        "quality_rating": 69.2,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000039",
+        "supplier_name": "Rodriguez and Sons",
+        "supplier_location": "North Jocelyntown",
+        "supplier_category": "Packaging",
+        "quality_rating": 84.48,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000040",
+        "supplier_name": "Edwards-Mcdaniel",
+        "supplier_location": "Lake Amanda",
+        "supplier_category": "Electronic Components",
+        "quality_rating": 80.21,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000041",
+        "supplier_name": "Jacobs-Brown",
+        "supplier_location": "Hutchinsonland",
+        "supplier_category": "Mechanical Parts",
+        "quality_rating": 74.42,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000042",
+        "supplier_name": "Zamora, Francis and Cordova",
+        "supplier_location": "South Kyle",
+        "supplier_category": "Packaging",
+        "quality_rating": 69.02,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000043",
+        "supplier_name": "Marquez, Solomon and Horne",
+        "supplier_location": "Bernardfort",
+        "supplier_category": "Raw Materials",
+        "quality_rating": 70.07,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000044",
+        "supplier_name": "Castaneda-Bryant",
+        "supplier_location": "Lake Elizabethhaven",
+        "supplier_category": "Electronic Components",
+        "quality_rating": 77.11,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000045",
+        "supplier_name": "Taylor-Anderson",
+        "supplier_location": "Schultzfort",
+        "supplier_category": "Packaging",
+        "quality_rating": 68.6,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000046",
+        "supplier_name": "Hardy, Santos and Washington",
+        "supplier_location": "South Allisonhaven",
+        "supplier_category": "Packaging",
+        "quality_rating": 91.15,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000047",
+        "supplier_name": "Anderson-West",
+        "supplier_location": "Singletonville",
+        "supplier_category": "Raw Materials",
+        "quality_rating": 84.53,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000048",
+        "supplier_name": "Salas Ltd",
+        "supplier_location": "New Ericville",
+        "supplier_category": "Mechanical Parts",
+        "quality_rating": 92.52,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000049",
+        "supplier_name": "Baker and Sons",
+        "supplier_location": "Annland",
+        "supplier_category": "Electronic Components",
+        "quality_rating": 77.84,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "supplier_id": "SUP-000050",
+        "supplier_name": "Boyd, Brooks and Anthony",
+        "supplier_location": "Sandrachester",
+        "supplier_category": "Packaging",
+        "quality_rating": 66.42,
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    }
+]

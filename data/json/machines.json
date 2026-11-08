@@ -1,0 +1,272 @@
+[
+    {
+        "machine_id": "MCH-000001",
+        "machine_name": "Production Machine 001",
+        "machine_type": "Soldering",
+        "location": "Production Hall B",
+        "installation_date": "2024-05-23",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000002",
+        "machine_name": "Production Machine 002",
+        "machine_type": "Testing",
+        "location": "Production Hall B",
+        "installation_date": "2024-03-10",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000003",
+        "machine_name": "Production Machine 003",
+        "machine_type": "Packaging",
+        "location": "Production Hall B",
+        "installation_date": "2022-11-27",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000004",
+        "machine_name": "Production Machine 004",
+        "machine_type": "Inspection",
+        "location": "Production Hall A",
+        "installation_date": "2022-05-07",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000005",
+        "machine_name": "Production Machine 005",
+        "machine_type": "Packaging",
+        "location": "Production Hall B",
+        "installation_date": "2023-08-30",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000006",
+        "machine_name": "Production Machine 006",
+        "machine_type": "Soldering",
+        "location": "Production Hall A",
+        "installation_date": "2023-04-23",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000007",
+        "machine_name": "Production Machine 007",
+        "machine_type": "Assembly",
+        "location": "Production Hall B",
+        "installation_date": "2025-06-19",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000008",
+        "machine_name": "Production Machine 008",
+        "machine_type": "Testing",
+        "location": "Production Hall C",
+        "installation_date": "2022-03-17",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000009",
+        "machine_name": "Production Machine 009",
+        "machine_type": "Packaging",
+        "location": "Production Hall C",
+        "installation_date": "2022-07-21",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000010",
+        "machine_name": "Production Machine 010",
+        "machine_type": "Packaging",
+        "location": "Production Hall B",
+        "installation_date": "2025-06-16",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000011",
+        "machine_name": "Production Machine 011",
+        "machine_type": "Testing",
+        "location": "Production Hall C",
+        "installation_date": "2023-12-14",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000012",
+        "machine_name": "Production Machine 012",
+        "machine_type": "Packaging",
+        "location": "Production Hall C",
+        "installation_date": "2024-03-12",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000013",
+        "machine_name": "Production Machine 013",
+        "machine_type": "Assembly",
+        "location": "Production Hall A",
+        "installation_date": "2024-04-15",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000014",
+        "machine_name": "Production Machine 014",
+        "machine_type": "Testing",
+        "location": "Production Hall C",
+        "installation_date": "2025-01-19",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000015",
+        "machine_name": "Production Machine 015",
+        "machine_type": "Packaging",
+        "location": "Production Hall A",
+        "installation_date": "2025-01-01",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000016",
+        "machine_name": "Production Machine 016",
+        "machine_type": "Assembly",
+        "location": "Production Hall B",
+        "installation_date": "2025-02-13",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000017",
+        "machine_name": "Production Machine 017",
+        "machine_type": "Inspection",
+        "location": "Production Hall A",
+        "installation_date": "2025-06-13",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000018",
+        "machine_name": "Production Machine 018",
+        "machine_type": "Testing",
+        "location": "Production Hall B",
+        "installation_date": "2024-04-16",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000019",
+        "machine_name": "Production Machine 019",
+        "machine_type": "Assembly",
+        "location": "Production Hall A",
+        "installation_date": "2023-05-31",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000020",
+        "machine_name": "Production Machine 020",
+        "machine_type": "Packaging",
+        "location": "Production Hall C",
+        "installation_date": "2024-06-26",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000021",
+        "machine_name": "Production Machine 021",
+        "machine_type": "Testing",
+        "location": "Production Hall A",
+        "installation_date": "2024-01-07",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000022",
+        "machine_name": "Production Machine 022",
+        "machine_type": "Assembly",
+        "location": "Production Hall A",
+        "installation_date": "2022-11-05",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000023",
+        "machine_name": "Production Machine 023",
+        "machine_type": "Soldering",
+        "location": "Production Hall B",
+        "installation_date": "2023-01-21",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000024",
+        "machine_name": "Production Machine 024",
+        "machine_type": "Assembly",
+        "location": "Production Hall C",
+        "installation_date": "2022-12-01",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000025",
+        "machine_name": "Production Machine 025",
+        "machine_type": "Assembly",
+        "location": "Production Hall C",
+        "installation_date": "2023-06-20",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000026",
+        "machine_name": "Production Machine 026",
+        "machine_type": "Assembly",
+        "location": "Production Hall B",
+        "installation_date": "2022-06-03",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000027",
+        "machine_name": "Production Machine 027",
+        "machine_type": "Packaging",
+        "location": "Production Hall B",
+        "installation_date": "2024-10-10",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000028",
+        "machine_name": "Production Machine 028",
+        "machine_type": "Packaging",
+        "location": "Production Hall C",
+        "installation_date": "2024-10-02",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000029",
+        "machine_name": "Production Machine 029",
+        "machine_type": "Testing",
+        "location": "Production Hall B",
+        "installation_date": "2022-05-09",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    },
+    {
+        "machine_id": "MCH-000030",
+        "machine_name": "Production Machine 030",
+        "machine_type": "Inspection",
+        "location": "Production Hall A",
+        "installation_date": "2025-05-02",
+        "lifecycle_status": "ACTIVE",
+        "created_at": "2026-11-08T07:14:01"
+    }
+]
