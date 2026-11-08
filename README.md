@@ -45,8 +45,6 @@ The project also includes synthetic anomaly scenarios, ground-truth labels, busi
 ```text
 yottaflex-quality-traceability/
 │
-├── app/
-│
 ├── database/
 │   ├── connection.py
 │   ├── models.py
@@ -86,7 +84,9 @@ yottaflex-quality-traceability/
 │   └── export_checksums.sha256
 │
 ├── prompt_history/
-├── tests/
+│   ├── AI_USAGE.md
+│   └── PROMPT_LOG.md
+│
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -202,7 +202,7 @@ five anomaly cases are labelled as ANOMALY in the ground-truth dataset.
 ### Clone the repository
 
 ```bash
-git clone YOUR_PUBLIC_GITHUB_REPOSITORY_URL
+git clone https://github.com/Junaiduddin-dev/yottaflex-quality-traceability.git
 cd yottaflex-quality-traceability
 ```
 
@@ -333,7 +333,7 @@ AI assistance was used during development for database design guidance, SQLAlche
 
 The project author is responsible for reviewing, testing, understanding, and explaining the final implementation.
 
-The `prompt_history/` directory is intended to contain the actual prompts used during AI-assisted development. Record the prompts and tools used accurately.
+The `prompt_history/` directory contains reconstructed summaries of AI-assisted development requests. These summaries are not verbatim transcripts of the original prompts.
 
 ## 17. Author
 
