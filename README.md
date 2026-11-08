@@ -78,6 +78,7 @@ yottaflex-quality-traceability/
 ├── yottaflex_synthetic.db
 ├── requirements.txt
 ├── .gitignore
+├── LICENSE
 ├── README.md
 │
 ├── database/
@@ -276,17 +277,25 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### Configure the synthetic database
+### Database Configuration
 
-For backend database operations, configure the database URL:
+The repository includes a pre-generated SQLite database:
+
+`yottaflex_synthetic.db`
+
+This database contains the populated synthetic dataset and is used directly by the Streamlit dashboard.
+
+For backend development or fresh dataset generation, use a separate development database to avoid modifying the included dataset.
 
 **Windows CMD:**
 
 ```cmd
-set DATABASE_URL=sqlite:///./yottaflex_synthetic.db
+set DATABASE_URL=sqlite:///./yottaflex_dev.db
 ```
 
-The Streamlit dashboard uses the included `yottaflex_synthetic.db` file directly.
+This configures backend database operations to use `yottaflex_dev.db` instead of the populated dashboard database.
+
+**Important:** Set the database URL before running database initialization or generator scripts. Run backend commands in the same CMD session after setting this variable.
 
 ## 10. Run the Streamlit Dashboard
 
@@ -304,7 +313,15 @@ The application will open in your default browser.
 
 ## 11. Generate Synthetic Data
 
-For a fresh database, initialize the database:
+For backend development, first select the separate development database.
+
+**Windows CMD:**
+
+```cmd
+set DATABASE_URL=sqlite:///./yottaflex_dev.db
+```
+
+Initialize and verify the fresh development database:
 
 ```cmd
 python -m database.init_db
@@ -321,13 +338,18 @@ python -m generator.capa_data
 python -m generator.anomaly_data
 ```
 
-**Important:** Run the database generators against a fresh database. Do not rerun them against an already populated database unless duplicate handling is implemented.
+**Important:**
+
+- Run the database generators against a fresh development database.
+- Do not run generators against the populated `yottaflex_synthetic.db` dashboard database.
+- Do not rerun generators against an already populated development database unless duplicate handling is implemented.
+- The dashboard continues to use the included `yottaflex_synthetic.db` file.
 
 The generation scripts use the configuration defined in `generator/config.py`.
 
 ## 12. Export Dataset
 
-Run:
+Run this command in the same CMD session where `DATABASE_URL` is set to `yottaflex_dev.db`:
 
 ```cmd
 python -m generator.export_data
