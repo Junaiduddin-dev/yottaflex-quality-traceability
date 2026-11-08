@@ -341,4 +341,4 @@ The `prompt_history/` directory is intended to contain the actual prompts used d
 
 **Technology:** Python, SQLite, SQLAlchemy
 
-**GitHub:** Add your public repository URL here.
+**GitHub:**https://github.com/Junaiduddin-dev/yottaflex-quality-traceability
